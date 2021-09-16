@@ -1,6 +1,6 @@
 # Hi there, I'm hajaein 👋
 
-##### I am a spring developer interested in the backend field.  
+##### I am a developer interested in the backend field.  
 ##### if you want to conntact me, please leave me a message!
 
 ### Tech Stack
