@@ -3,7 +3,7 @@
 ##### I am a developer interested in the backend field.  
 ##### if you want to conntact me, please leave me a message!
 
-##### Email: devjaein@gmail.com
+##### Email: jaiin12356@gmail.com
 
 ### Tech Stack
 ###### Programming
