@@ -7,7 +7,7 @@
 
 ### Tech Stack
 ###### Programming
-<img src = "https://img.shields.io/badge/-Python3-blue?logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white">  <img src = "https://img.shields.io/badge/-html-white?logo=HTML5"> <img src = "https://img.shields.io/badge/-css-9cf?logo=css3">
+<img src = "https://img.shields.io/badge/-Python3-blue?logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-jsp-blue?logo=jsp&logoColor=orange"> <img src = "https://img.shields.io/badge/-html-white?logo=HTML5"> <img src = "https://img.shields.io/badge/-css-9cf?logo=css3">
 ###### framework
 <img src = "https://img.shields.io/badge/-spring-white?logo=spring"> <img src="https://img.shields.io/badge/-Springboot-white?logo=springboot"> <img src="https://img.shields.io/badge/-mybatis-blue">
 ###### dbms
