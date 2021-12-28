@@ -1,9 +1,10 @@
 # Hi there, I'm hajaein 👋
+I am a developer interested in the backend field.  
+if you want to conntact me, please leave me a message!
 
-##### I am a developer interested in the backend field.  
-##### if you want to conntact me, please leave me a message!
+##### Email: devjaein@gmail.com
 
-##### Email: jaiin12356@gmail.com
+##### Blog : https://medium.com/me/stories/public
 
 ### Tech Stack
 ###### Programming
