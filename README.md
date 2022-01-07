@@ -1,6 +1,6 @@
 # Hi there, I'm hajaein 👋
-I am a developer interested in the backend field.  
-if you want to conntact me, please leave me a message!
+백엔드 분야에 관심이 있는 하재인입니다.  
+관심이 있으신 분들은 아래 메일로 남겨주세요!!
 
 ##### Email: devjaein@gmail.com
 
