@@ -1,9 +1,8 @@
-
+## introduce
 백엔드 분야에 관심이 있는 하재인입니다.  
 궁금하신 사항은 아래 메일로 남겨주세요!! 👋
 
 ##### Email: devjaein@gmail.com
-
 ##### Blog : https://medium.com/me/stories/public
 
 ### Tech Stack
