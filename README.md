@@ -14,6 +14,6 @@
 <img src = https://img.shields.io/badge/-h2-green>
 
 ###### tool
-<img src = "https://img.shields.io/badge/-git-white?logo=git"> <img src = "https://img.shields.io/badge/-slack-purple?logo=slack">
+<img src = "https://img.shields.io/badge/-git-white?logo=git"> <img src = "https://img.shields.io/badge/-slack-purple?logo=slack"> <img src = "https://img.shields.io/badge/-aws-orange?logo=aws">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaein&show_icons=true&theme=radical)
