@@ -10,7 +10,7 @@
 ###### framework
 <img src = "https://img.shields.io/badge/-spring-white?logo=spring"> <img src="https://img.shields.io/badge/-Springboot-white?logo=springboot"> <img src="https://img.shields.io/badge/-mybatis-blue"> <img src = "https://img.shields.io/badge/-jpa-blue?logo=jpa"> <img src = "https://img.shields.io/badge/-jdbc-red?logo=jdbc%22">
 ###### dbms
-<img src = https://img.shields.io/badge/-h2-green>
+<img src = https://img.shields.io/badge/-h2-green> <img src= "https://img.shields.io/badge/-mysql-white?logo=mysql">
 
 ###### tool
 <img src = "https://img.shields.io/badge/-git-white?logo=git"> <img src = "https://img.shields.io/badge/-slack-purple?logo=slack"> <img src = "https://img.shields.io/badge/-aws-orange?logo=aws">
