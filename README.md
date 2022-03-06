@@ -3,6 +3,7 @@
 감사합니다😊
 ##### Email: devjaein@gmail.com
 ##### Blog : https://medium.com/me/stories/public
+##### Notion : https://candied-hose-c0f.notion.site/Resume-f3a1e2913857468ca594b4b3fc156e7a
 
 ### Tech Stack
 ###### Programming
