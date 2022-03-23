@@ -1,7 +1,7 @@
 백엔드 엔지니어를 희망하는 주니어 개발자 하재인입니다.  
 궁금하신 사항은 아래 메일로 남겨주세요!! 👋  
 감사합니다😊
-##### Email: devjaein@gmail.com
+##### Email: jaein4231@naver.com
 ##### Blog : https://medium.com/me/stories/public
 ##### Notion : https://candied-hose-c0f.notion.site/Resume-f3a1e2913857468ca594b4b3fc156e7a
 
