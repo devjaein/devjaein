@@ -3,7 +3,7 @@
 궁금하신 사항은 아래 메일로 남겨주세요!! 👋  
 감사합니다😊
 ##### Email: devjaein@gmail.com
-##### Blog : https://medium.com/me/stories/public
+##### Blog : https://medium.com/@jaiin12356
 
 ### Tech Stack
 ###### Programming
