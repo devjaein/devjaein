@@ -1,6 +1,5 @@
 안녕하세요😃  
 백엔드 주니어 개발자 하재인입니다.  
-궁금하신 사항은 아래 메일로 남겨주세요!! 👋  
 감사합니다😊
 ##### Email: devjaein@gmail.com
 ##### Blog : https://medium.com/@jaiin12356
