@@ -10,9 +10,9 @@
 ###### framework
 <img src = "https://img.shields.io/badge/-spring-white?logo=spring"> <img src="https://img.shields.io/badge/-Springboot-white?logo=springboot"> <img src="https://img.shields.io/badge/-mybatis-blue"> <img src = "https://img.shields.io/badge/-jpa-blue?logo=jpa"> <img src = "https://img.shields.io/badge/-jdbc-red?logo=jdbc%22">
 ###### dbms
-<img src = https://img.shields.io/badge/-h2-green> <img src= "https://img.shields.io/badge/-mysql-white?logo=mysql">
+<img src = https://img.shields.io/badge/-h2-green> <img src= "https://img.shields.io/badge/-mysql-white?logo=mysql">  <img src = "https://img.shields.io/badge/-oracle-orange?logo=oracle">
 
 ###### tool
-<img src = "https://img.shields.io/badge/-git-white?logo=git"> <img src = "https://img.shields.io/badge/-slack-purple?logo=slack"> <img src = "https://img.shields.io/badge/-aws-orange?logo=aws"> <img src = "https://img.shields.io/badge/-postman-brightgreen?logo=postman"> <img src = "https://img.shields.io/badge/-IntelliJ-blue">
+<img src = "https://img.shields.io/badge/-git-white?logo=git"> <img src = "https://img.shields.io/badge/-slack-purple?logo=slack"> <img src = "https://img.shields.io/badge/-aws-orange?logo=aws"> <img src = "https://img.shields.io/badge/-postman-brightgreen?logo=postman">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaein&show_icons=true&theme=radical)
