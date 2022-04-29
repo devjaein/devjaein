@@ -1,5 +1,5 @@
 안녕하세요👋  
-백엔드 주니어 개발자 하재인입니다.  
+지속적으로 공부하며 성장하는 백엔드 주니어 개발자 하재인입니다.  
 감사합니다😊
 ##### Email: devjaein@gmail.com
 ##### Blog : https://medium.com/@jaiin12356
